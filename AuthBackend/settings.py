@@ -25,7 +25,7 @@ SECRET_KEY = 'c934q)cu*l)+t5r3!gw2yfto_clr+2x(iw%g^5k922*8v=g6y1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['auth-backend-1.herokuapp.com/']
+ALLOWED_HOSTS = ['auth-backend-1.herokuapp.com']
 
 # Application definition
 
